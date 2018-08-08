@@ -1,3 +1,3 @@
 # hello-world
-empezando a probar git
-trying to get some spont on life
+empezando a probar git \n
+trying to get some spot on life
